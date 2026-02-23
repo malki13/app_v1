@@ -7,11 +7,6 @@ import { AuthProvider } from './src/context/AuthContext';
 import Navigation from './src/navigation';
 import { MaterialsProvider } from './src/context/MaterialsContext';
 
-
-
-
-
-
 const App: React.FC = () => {
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
